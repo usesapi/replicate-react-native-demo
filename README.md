@@ -1,5 +1,5 @@
 # Sapi
-This project uses [Sapi](https://usesapi.com) to allow using the replicate API without developing a backend. To learn more, check out this tutorial:
+This project uses [Sapi](https://usesapi.com) to allow using the replicate API without developing a backend. To learn more, visit the full tutorial at: https://sapi.gitbook.io/replicate.com-apps-tutorials/react-native-describe-any-photo-just-by-looking-at-it
 
 # How To Use
 
