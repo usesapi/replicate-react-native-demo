@@ -1,6 +1,6 @@
 import CameraScreen from "./app/CameraScreen";
 import { SAPI_ID } from "@env";
-import { init } from "./sapi-rn-sdk";
+import { init } from "@sapi/react-native-sdk";
 
 init({
   sapiId: SAPI_ID,

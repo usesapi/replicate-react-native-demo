@@ -1530,7 +1530,7 @@
     "mkdirp" "^1.0.4"
     "rimraf" "^3.0.2"
 
-"@react-native-async-storage/async-storage@~1.17.3":
+"@react-native-async-storage/async-storage@^1.17.11":
   "integrity" "sha512-bzs45n5HNcDq6mxXnSsOHysZWn1SbbebNxldBXCQs8dSvF8Aor9KCdpm+TpnnGweK3R6diqsT8lFhX77VX0NFw=="
   "resolved" "https://registry.npmjs.org/@react-native-async-storage/async-storage/-/async-storage-1.17.11.tgz"
   "version" "1.17.11"
@@ -1741,6 +1741,13 @@
   "integrity" "sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ=="
   "resolved" "https://registry.npmjs.org/@react-native/polyfills/-/polyfills-2.0.0.tgz"
   "version" "2.0.0"
+
+"@sapi/react-native-sdk@github:usesapi/sapi-react-native-sdk":
+  "resolved" "git+ssh://git@github.com/usesapi/sapi-react-native-sdk.git#a8b7066288cd9107cdfd852ce23a9a8d922c005b"
+  "version" "1.0.0"
+  dependencies:
+    "@react-native-async-storage/async-storage" "^1.17.11"
+    "fetch-intercept" "^2.4.0"
 
 "@segment/loosely-validate-event@^2.0.0":
   "integrity" "sha512-ZMCSfztDBqwotkl848ODgVcAmN4OItEWDCkshcKz0/W6gGSQayuuCtWV/MlodFivAZD793d6UgANd6wCXUfrIw=="

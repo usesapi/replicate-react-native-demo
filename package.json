@@ -9,7 +9,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "~1.17.3",
     "@types/uuid": "^9.0.0",
     "expo": "~47.0.12",
     "expo-application": "~5.0.1",
@@ -19,12 +18,12 @@
     "expo-image-picker": "^14.0.2",
     "expo-permissions": "^14.0.0",
     "expo-status-bar": "~1.4.2",
-    "fetch-intercept": "^2.4.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
     "react-native-dotenv": "^3.4.7",
     "react-native-web": "~0.18.9",
+    "@sapi/react-native-sdk": "github:usesapi/sapi-react-native-sdk",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
