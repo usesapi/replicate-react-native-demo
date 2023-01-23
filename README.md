@@ -17,10 +17,13 @@ Run the command `git clone git@github.com:usesapi/replicate-react-native-demo.gi
 ## Replicate
 Sign in to your replicate account, open the [Account](https://replicate.com/account) page and copy your API Token.
 
-## Configure your Sapi Proxy
+## Create Sapi Account
 
 Sign in to [Sapi](https://console.usesapi.com), create a new Replicate Sapi and configure it with the Replicate API Token.\
-Configure your Replicate Sapi ID in the .env file
+
+## Set your Sapi Id
+
+In the App.tsx (line 6) set your Sapi ID
 
 ## Running the app
 

@@ -1,10 +1,9 @@
 import CameraScreen from "./app/CameraScreen";
-import { SAPI_ID } from "@env";
 import { init } from "@sapi/react-native-sdk";
 
-console.log({SAPI_ID})
+
 init({
-  sapiId: SAPI_ID,
+  sapiId: 'api-replicate-com-i24sjl', //todo: replace with your own Sapi id
   platform: "React Native",
 });
 
