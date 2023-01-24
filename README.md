@@ -5,8 +5,8 @@ This project uses [Sapi](https://usesapi.com) to allow using the replicate API w
 
 ## Prerequisites
 
-Node.js and npm (comes with Node) installed on your machine. You can download Node.js from [here](https://nodejs.org/en/download/).\
-Expo CLI installed on your machine. You can install it by running `npm install -g expo-cli`
+1. Node.js and npm (comes with Node) installed on your machine. We recommend to use [NVM](https://github.com/nvm-sh/nvm).
+2. Expo CLI installed on your machine. You can install it by running `npm install -g expo-cli`
 
 
 ## Cloning the app
@@ -14,12 +14,12 @@ Expo CLI installed on your machine. You can install it by running `npm install -
 Open a terminal and navigate to the directory where you want to clone the app.\
 Run the command `git clone git@github.com:usesapi/replicate-react-native-demo.git`
 
-## Replicate
+## Get Replicate API Token
 Sign in to your replicate account, open the [Account](https://replicate.com/account) page and copy your API Token.
 
 ## Create Sapi Account
 
-Sign in to [Sapi](https://console.usesapi.com), create a new Replicate Sapi and configure it with the Replicate API Token.\
+Sign in to [Sapi](https://console.usesapi.com), create a new Replicate Sapi and configure it with the Replicate API Token.
 
 ## Set your Sapi Id
 
